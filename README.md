@@ -1,5 +1,5 @@
 # Documentation
-Link - (https://docs.google.com/document/d/1BVtk2ZNYNDo4SnS2HMNafHuj75ZEVTk9hM_0qg2ochk/edit?usp=sharing)
+Link - (https://docs.google.com/document/d/1iKcst3JgpAZ74v5dmfBSKWEQKc_cgAwwuWoCBdMNg0A/edit)
 
 # Welcome to your new ignited app!
 
